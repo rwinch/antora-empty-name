@@ -1,0 +1,4 @@
+title: Component with name not in URL
+name: ''
+version: '1.0'
+start_page: ROOT:index.adoc
